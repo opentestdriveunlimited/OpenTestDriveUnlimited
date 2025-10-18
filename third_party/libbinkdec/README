@@ -1,0 +1,3 @@
+# Bink Decoder
+
+This code is based on the Bink decoder from the FFmpeg project which can be obtained from [FFMPeg](http://www.ffmpeg.org/)
